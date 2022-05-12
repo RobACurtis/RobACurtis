@@ -11,10 +11,9 @@
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
-<h3> My Hobbies </h3>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobACurtis&langs_count=5&theme=merko&layout=compact)]()
 
-🏄 Surfing
-🎸 Guitar
+
 
 
 
