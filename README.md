@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobACurtis
 - 🧑🏽‍💻 I am a software engineer based out of Southern California. Feel free to check out my work!
-- 💻 I’m currently learning Node.js at LearningFuze.
+- 💻 I’m currently learning React and PostgreSQL at LearningFuze.
 
 <h3> My Tech Stack </h3>
 
