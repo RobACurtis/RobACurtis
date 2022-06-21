@@ -1,9 +1,14 @@
+
+![linkedincover](https://user-images.githubusercontent.com/96838616/174904023-4f799f78-317b-4ff9-a359-ed3fb512e719.jpg)
+
+
+
 ## 👋 🌎 Hello World! I’m @RobACurtis
 
 [![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobACurtis)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies ⚡ 
-Let's talk about : 
+Let's talk about: 
 - Front-end development using HTML, CSS, Bootstrap, and React
 - Backend development using Node.js, Express, and PostgreSQL
 - Tools I've used such as Babel, Webpack, Git, Github, Argon2, JWT, and npm.
