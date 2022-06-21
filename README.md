@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RobACurtis
-- 🧑🏽‍💻 I am a software engineer based out of Southern California. Feel free to check out my work!
-- 💻 I’m currently working on a full stack web application for surf photographers who want to show off their photography.
+## 👋 Hello! I’m @RobACurtis
+
+[![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobACurtis)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> My Tech Stack </h3>
 
@@ -9,11 +9,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-
-
-
-
-
 
 <!---
 RobACurtis/RobACurtis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
