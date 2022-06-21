@@ -1,15 +1,10 @@
 ## 👋 Hello! I’m @RobACurtis
 
 
-<h3> My Tech Stack </h3>
+### Skills
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- NodeJS
-- Express
-- PostgreSQL
+- Stack - React, JavaScript, CSS3, HTML5, Node.js, Express, PostgreSQL
+- Tools - Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, Github
 
 
 [![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobACurtis)](https://github.com/anuraghazra/github-readme-stats)
