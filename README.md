@@ -10,7 +10,7 @@
 Let's talk about: 
 - Front-end development using HTML, CSS, Bootstrap, and React
 - Backend development using Node.js, Express, and PostgreSQL
-- Tools I've used such as Babel, Webpack, Git, Github, Argon2, JWT, and npm.
+- Tools I've used such as npm, Babel, Webpack, Git, Github, Argon2, JWT, multer, and AWS S3.
 - Any technologies you are passionate about! 
 
 ##  💻 About Me  🏄🏽
