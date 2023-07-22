@@ -6,9 +6,9 @@
 
 ## Technologies ⚡ 
 Let's talk about: 
-- Front-end development using HTML, CSS, Bootstrap, and React
-- Backend development using Node.js, Express, Python and PostgreSQL
-- Tools I've used such as npm, Babel, Webpack, Git, Github, Argon2, JWT, multer, pip, FastAPI, uvicorn and AWS S3.
+- Front-end development using HTML, CSS, React, and Typescript
+- Backend development using Node.js, Express, Python, Jinja, MongoDB and Postgresql.
+- Tools I've used such as npm, Babel, Webpack, Poetry, Click, MobX, Argon2, JWT, multer, pip, FastAPI, uvicorn and AWS S3.
 - Any technologies you are passionate about! 
 
 ##  💻 About Me  🏄🏽
