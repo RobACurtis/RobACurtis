@@ -6,10 +6,10 @@
 
 ## Technologies ⚡ 
 Let's talk about: 
-- Front-end development using HTML, CSS, React, and Typescript
+- Front-end development using React, TypeScript and NextJS
 - Backend development using Node.js, Express, Python, Jinja, MongoDB and Postgresql.
-- Tools I've used such as npm, Babel, Webpack, Poetry, Click, MobX, Argon2, JWT, multer, pip, FastAPI, uvicorn and AWS S3.
-- Any technologies you are passionate about! 
+- Creating trading strategies in PineScript
+- Tools I've used such as npm, Babel, Webpack, Poetry, Click, MobX, Argon2, JWT, multer, pip, FastAPI, uvicorn and AWS S3, Docker and TailwindCSS.
 
 ##  💻 About Me  🏄🏽
 
@@ -24,6 +24,7 @@ Hello! I am Rob Curtis, a Full Stack Web Developer who has a passion for creatin
 ## 📨 Let's Connect! 
 
  - [Linked In](https://www.linkedin.com/in/robanthonycurtis/)
+ - [Tradingview](https://www.tradingview.com/u/djdrob/)
 
 
 
