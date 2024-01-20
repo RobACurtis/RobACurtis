@@ -24,7 +24,6 @@ Hello! I am Rob Curtis, a Full Stack Web Developer who has a passion for creatin
 ## 📨 Let's Connect! 
 
  - [Linked In](https://www.linkedin.com/in/robanthonycurtis/)
- - [Tradingview](https://www.tradingview.com/u/djdrob/)
 
 
 
